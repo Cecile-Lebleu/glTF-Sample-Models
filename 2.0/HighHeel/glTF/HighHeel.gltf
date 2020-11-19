@@ -832,7 +832,7 @@
 						1.0
 					],
 					"sheenRoughnessFactor": 0.1,
-					"sheenTexture": {
+					"sheenColorTexture": {
 						"index": 14
 					}
 				}
