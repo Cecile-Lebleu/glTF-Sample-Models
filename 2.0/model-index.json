@@ -203,6 +203,7 @@
     "variants": {
       "glTF": "CesiumMan.gltf",
       "glTF-Binary": "CesiumMan.glb",
+      "glTF-Draco": "CesiumMan.gltf",
       "glTF-Embedded": "CesiumMan.gltf"
     }
   },
@@ -212,6 +213,7 @@
     "variants": {
       "glTF": "CesiumMilkTruck.gltf",
       "glTF-Binary": "CesiumMilkTruck.glb",
+      "glTF-Draco": "CesiumMilkTruck.gltf",
       "glTF-Embedded": "CesiumMilkTruck.gltf"
     }
   },
@@ -354,7 +356,7 @@
     "variants": {
       "glTF": "MorphPrimitivesTest.gltf",
       "glTF-Binary": "MorphPrimitivesTest.glb",
-      "glTF-Draco": "MorphPrimitivesTest.glb"
+      "glTF-Draco": "MorphPrimitivesTest.gltf"
     }
   },
   {
@@ -409,6 +411,7 @@
     "variants": {
       "glTF": "RiggedFigure.gltf",
       "glTF-Binary": "RiggedFigure.glb",
+      "glTF-Draco": "RiggedFigure.gltf",
       "glTF-Embedded": "RiggedFigure.gltf"
     }
   },
@@ -418,6 +421,7 @@
     "variants": {
       "glTF": "RiggedSimple.gltf",
       "glTF-Binary": "RiggedSimple.glb",
+      "glTF-Draco": "RiggedSimple.gltf",
       "glTF-Embedded": "RiggedSimple.gltf"
     }
   },
@@ -454,6 +458,14 @@
     "variants": {
       "glTF": "SimpleMorph.gltf",
       "glTF-Embedded": "SimpleMorph.gltf"
+    }
+  },
+  {
+    "name": "SimpleSkin",
+    "screenshot": "screenshot/screenshot.gif",
+    "variants": {
+      "glTF": "SimpleSkin.gltf",
+      "glTF-Embedded": "SimpleSkin.gltf"
     }
   },
   {
@@ -511,6 +523,14 @@
     }
   },
   {
+    "name": "TextureTransformMultiTest",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "TextureTransformMultiTest.gltf",
+      "glTF-Binary": "TextureTransformMultiTest.glb"
+    }
+  },
+  {
     "name": "TextureTransformTest",
     "screenshot": "screenshot/screenshot.jpg",
     "variants": {
@@ -539,6 +559,14 @@
     "name": "TransmissionSuzanne",
     "variants": {
       "glTF": "TransmissionSuzanne.gltf"
+    }
+  },
+  {
+    "name": "TransmissionTest",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "TransmissionTest.gltf",
+      "glTF-Binary": "TransmissionTest.glb"
     }
   },
   {
