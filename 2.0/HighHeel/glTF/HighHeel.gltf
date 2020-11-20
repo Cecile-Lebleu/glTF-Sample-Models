@@ -402,7 +402,10 @@
 		}
 	],
 	"asset": {
-		"generator": "Gestaltor 2020.3.1 Beta 'Zitronensorbet' (dev-262ba7a2f)",
+		"extras": {
+			"created": "Fri Nov 20 11:33:48 2020"
+		},
+		"generator": "Gestaltor 2020.4.2 Kuerbiskuchen Development (internal) (dev-23f27e6)",
 		"version": "2.0"
 	},
 	"bufferViews": [
@@ -831,10 +834,10 @@
 						0.7518882751464844,
 						1.0
 					],
-					"sheenRoughnessFactor": 0.1,
 					"sheenColorTexture": {
 						"index": 14
-					}
+					},
+					"sheenRoughnessFactor": 0.1
 				}
 			},
 			"name": "M_Outer",
