@@ -544,6 +544,12 @@
     }
   },
   {
+    "name": "ToyCar",
+    "variants": {
+      "glTF": "ToyCar.gltf"
+    }
+  },
+  {
     "name": "TransmissionSpheres",
     "variants": {
       "glTF": "TransmissionSpheres.gltf"
